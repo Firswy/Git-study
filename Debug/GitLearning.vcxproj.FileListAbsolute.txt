@@ -1,0 +1,2 @@
+C:\D\GitProject\GitLearning\Debug\GitLearning.exe
+C:\D\GitProject\GitLearning\Debug\GitLearning.pdb
